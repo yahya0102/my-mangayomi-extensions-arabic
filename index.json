@@ -1,0 +1,87 @@
+[
+  {
+    "name": "arabtoons",
+    "pkgPath": "manga/src/ar/arabtoons.js",
+    "version": "1.0.5",
+    "lang": "ar",
+    "isNsfw": false,
+    "iconUrl": "https://www.google.com/s2/favicons?sz=256&domain=arabtoons.net",
+    "baseUrl": "https://arabtoons.net",
+    "notes": "إصلاح دمج العنوان مع القصة"
+  },
+  {
+    "name": "Mangatuk",
+    "pkgPath": "manga/src/ar/mangatuk.js",
+    "version": "0.9.1",
+    "lang": "ar",
+    "isNsfw": false,
+    "iconUrl": "https://www.google.com/s2/favicons?domain=mangatuk.com&sz=256",
+    "baseUrl": "https://mangatuk.com",
+    "notes": "فلاتر متزامنة مع 64 تصنيفًا + إصلاح الصور وترقيم الفصول."
+  },
+  {
+    "name": "TeamX",
+    "pkgPath": "manga/src/ar/teamx.js",
+    "version": "0.1.0",
+    "lang": "ar",
+    "isNsfw": false,
+    "iconUrl": "https://www.google.com/s2/favicons?sz=256&domain=olympustaff.com",
+    "baseUrl": "https://olympustaff.com"
+  },
+  {
+    "name": "azorafly",
+    "pkgPath": "manga/src/ar/azorafly.js",
+    "version": "2.1.1",
+    "lang": "ar",
+    "isNsfw": false,
+    "iconUrl": "https://azorafly.com/icon-144x144.png",
+    "baseUrl": "https://azorafly.com",
+    "notes": "يعرض المانجا والمانهوا للموقع فقط"
+  },
+  {
+    "name": "كواي مانجا",
+    "pkgPath": "manga/src/ar/kawaiimanga.js",
+    "version": "21.0.0",
+    "lang": "ar",
+    "isNsfw": false,
+    "iconUrl": "https://kawaiimanga.org/logo.png",
+    "baseUrl": "https://kawaiimanga.org"
+  },
+  {
+    "name": "manga stars",
+    "pkgPath": "manga/src/ar/manga-stars.js",
+    "version": "0.8.6",
+    "lang": "ar",
+    "isNsfw": false,
+    "iconUrl": "https://starz.manga-starz.net/wp-content/uploads/starzmanga.png",
+    "baseUrl": "https://starzmanga.com",
+    "notes": "مانجا ستارز (multi-genre via checkboxes)"
+  },
+  {
+    "name": "mangatek",
+    "pkgPath": "manga/src/ar/mangatek.js",
+    "version": "0.1.1",
+    "lang": "ar",
+    "isNsfw": false,
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://mangatek.com&size=256",
+    "baseUrl": "https://mangatek.com"
+  },
+  {
+    "name": "ProComic",
+    "pkgPath": "manga/src/ar/procomic.js",
+    "version": "1.0.0",
+    "lang": "ar",
+    "isNsfw": false,
+    "iconUrl": "https://procomic.pro/favicon.svg",
+    "baseUrl": "https://procomic.pro"
+  },
+  {
+    "name": "مانجا ليك",
+    "pkgPath": "manga/src/ar/mangalik.js",
+    "version": "0.0.9",
+    "lang": "ar",
+    "isNsfw": false,
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://mangalik.net&size=256",
+    "baseUrl": "https://mangalik.net"
+  }
+]
