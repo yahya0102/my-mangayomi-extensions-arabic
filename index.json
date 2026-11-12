@@ -196,5 +196,27 @@
     "additionalParams": "",
     "sourceCodeLanguage": 1,
     "notes": ""
+  },
+  {
+    "name": "Dilar",
+    "id": 1010,
+    "baseUrl": "https://dilar.tube",
+    "lang": "ar",
+    "typeSource": "single",
+    "iconUrl": "https://dilar.tube/favicon.ico",
+    "dateFormat": "",
+    "dateFormatLocale": "",
+    "isNsfw": false,
+    "hasCloudflare": false,
+    "sourceCodeUrl": "https://raw.githubusercontent.com/yahya0102/my-mangayomi-extensions-arabic/main/manga/src/ar/dilar.dart",
+    "apiUrl": "",
+    "version": "1.0.0",
+    "isManga": true,
+    "itemType": 0,
+    "isFullData": false,
+    "appMinVerReq": "0.5.0",
+    "additionalParams": "",
+    "sourceCodeLanguage": 0,
+    "notes": ""
   }
 ]
