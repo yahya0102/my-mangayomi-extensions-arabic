@@ -6,7 +6,7 @@ const mangayomiSources = [{
     "iconUrl": "https://www.google.com/s2/favicons?sz=256&domain=arabtoons.net",
     "typeSource": "single",
     "itemType": 0,
-    "isNsfw": false,
+    "isNsfw": true,
     "version": "1.0.5",
     "pkgPath": "",
     "notes": "إصلاح دمج العنوان مع القصة"
